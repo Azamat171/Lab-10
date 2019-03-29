@@ -3,7 +3,8 @@ import java.lang.Exception;
 public class Exceptions {
 
     public static void Arif_ExC() {
-        int d, а;
+        int d;
+        int а;
         try {
             d = 0;
             а = 42 / d;
